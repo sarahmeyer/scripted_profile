@@ -1,0 +1,40 @@
+.main {
+  max-width: 1024px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 30px;
+}
+
+div {
+  vertical-align: top;
+}
+
+header {
+  background-color: #D9D9D9;
+  padding: 20px;
+}
+
+.pictures {
+
+}
+
+img {
+  width: 300px;
+}
+
+.section {
+  width: 32%;
+  display: inline-block;
+}
+
+.movies {
+  background-color: #CAE6E5;
+}
+
+.actors {
+  background-color: #E6CACB;
+}
+
+.foods {
+  background-color: #CAE6DC;
+}
